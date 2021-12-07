@@ -17,13 +17,13 @@ In most cases, the easiest way to get started is to find the code and instructio
 <li>Near the top of the window, find your container ID, formatted as
 <code translate="no" dir="ltr">GTM-XXXXXX</code>. Click your container ID to launch the <strong>Install Tag Manager</strong>
 window.<br>
-<img src="/tag-platform/images/GTMID.png" alt="GTMID" width="80%" class="screenshot"> </li>
+<img src="https://developers.google.com//tag-platform/images/GTMID.png" alt="GTMID" width="80%" class="screenshot"> </li>
 <li>Copy the code and install on all pages based on the instructions provided.
 The first code block is best placed immediately after the web page's opening
 <code translate="no" dir="ltr">&lt;head&gt;</code> tag, or as high in the <code translate="no" dir="ltr">&lt;head&gt;</code> as possible. This helps to ensure
 that your Tag Manager configuration is available and ready when the rest of
 the page loads.<br>
-<img src="/tag-platform/images/installgtm.png" alt="Tag Manager installation screen" class="screenshot" width="80%"></li>
+<img src="https://developers.google.com//tag-platform/images/installgtm.png" alt="Tag Manager installation screen" class="screenshot" width="80%"></li>
 <li>Optional, but recommended: <a href="/tag-platform/tag-manager/web/datalayer">Install a data layer object</a>.
 A data layer will enable more robust measurement for your tag configurations.</li>
 <li><a href="https://support.google.com/tagmanager/answer/6107163">Publish</a> your container.</li>
